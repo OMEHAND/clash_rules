@@ -3303,6 +3303,7 @@ payload:
   - DOMAIN-SUFFIX,my.opera.com
   - DOMAIN-SUFFIX,my.pcloud.com
   - DOMAIN-SUFFIX,my03.com
+  - DOMAIN-SUFFIX,my9h689yw8k4t1.xyz
   - DOMAIN-SUFFIX,myactimes.com
   - DOMAIN-SUFFIX,myanniu.com
   - DOMAIN-SUFFIX,myaudiocast.com
@@ -3995,6 +3996,7 @@ payload:
   - DOMAIN-SUFFIX,redditstatic.com
   - DOMAIN-SUFFIX,redhotlabs.com
   - DOMAIN-SUFFIX,redtube.com
+  - DOMAIN-SUFFIX,redwap.me
   - DOMAIN-SUFFIX,referer.us
   - DOMAIN-SUFFIX,reflectivecode.com
   - DOMAIN-SUFFIX,registry.google
