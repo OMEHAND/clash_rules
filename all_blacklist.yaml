@@ -158,6 +158,7 @@ payload:
   - DOMAIN-SUFFIX,adelaidebbs.com
   - DOMAIN-SUFFIX,admin.recaptcha.net
   - DOMAIN-SUFFIX,admob.com
+  - DOMAIN-SUFFIX,adobelogin.com
   - DOMAIN-SUFFIX,adpl.org.hk
   - DOMAIN-SUFFIX,ads-twitter.com
   - DOMAIN-SUFFIX,adsense.com
