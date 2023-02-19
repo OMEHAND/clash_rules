@@ -3,7 +3,6 @@ payload:
   - DOMAIN-SUFFIX,bcfuli.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,epicgames.com
-  - DOMAIN-SUFFIX,objects.githubusercontent.com
   - DOMAIN-SUFFIX,oneclient.sfx.ms
   - DOMAIN-SUFFIX,razer.com
   - DOMAIN-SUFFIX,razersupport.com
@@ -12,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,vcfuli.com
   - DOMAIN-SUFFIX,vo.msecnd.net
+  - DOMAIN-SUFFIX,mypikpak.com
