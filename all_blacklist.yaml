@@ -517,6 +517,7 @@ payload:
   - DOMAIN-SUFFIX,billypan.com
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,binux.me
   - DOMAIN-SUFFIX,bipic.net
   - DOMAIN-SUFFIX,bird.so
