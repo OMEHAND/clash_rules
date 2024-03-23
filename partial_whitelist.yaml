@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,bcfuli.com
+  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,epicgames.com
   - DOMAIN-SUFFIX,gateway.pinata.cloud
   - DOMAIN-SUFFIX,oneclient.sfx.ms
