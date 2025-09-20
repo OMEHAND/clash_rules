@@ -4,7 +4,6 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,epicgames.com
   - DOMAIN-SUFFIX,gateway.pinata.cloud
-  - DOMAIN-SUFFIX,nextdns.io
   - DOMAIN-SUFFIX,oneclient.sfx.ms
   - DOMAIN-SUFFIX,razer.com
   - DOMAIN-SUFFIX,razersupport.com
