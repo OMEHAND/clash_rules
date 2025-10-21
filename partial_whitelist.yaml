@@ -14,3 +14,6 @@ payload:
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,vcfuli.com
   - DOMAIN-SUFFIX,vo.msecnd.net
+  - DOMAIN-SUFFIX,cf-ipfs.com
+  - DOMAIN-KEYWORD,captcha
+  - DOMAIN-KEYWORD,challenge
