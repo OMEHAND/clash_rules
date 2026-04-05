@@ -17,3 +17,5 @@ payload:
   - DOMAIN-SUFFIX,cf-ipfs.com
   - DOMAIN-KEYWORD,captcha
   - DOMAIN-KEYWORD,challenge
+  - DOMAIN-SUFFIX,lol.garena.com
+  - DOMAIN-SUFFIX,leagueoflegends.com
